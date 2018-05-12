@@ -1,10 +1,16 @@
 _repo: History-of-Brighthelmston-or-Brighton-as-I-View-it-and-other-Knew_50551
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Erredge, John Ackerson
     gutenberg_agent_id: '45971'
     url: http://www.gutenberg.org/2009/agents/45971
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50551#History-of-Brighthelmston-or-Brighton-as-I-View-it-and-other-Knew
 gutenberg_issued: '2015-11-25'
 gutenberg_type: Text
 identifiers:
